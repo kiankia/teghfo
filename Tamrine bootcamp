@@ -1,0 +1,104 @@
+"""hajm=4/3*3.1415926*(5.3)**3    #Tamrin 1
+print(float(hajm))"""
+
+
+
+
+
+"""a=int(input("Enter three num: "))
+b=int(input("Enter num 2: "))
+c=int(input("Enter num 3: "))
+
+my_num=[a,b,c]                            #Tamrin2
+minimum=min(my_num)
+maximum=max(my_num)
+print(f"min is: ",minimum)
+print(f"max is: ",maximum)"""
+
+
+
+
+
+"""x=int(input("Enter your password: "))
+
+if x==1234 :
+    print("You have successfull login")            #Tamrin3
+else:
+    print("You havent successfull login")"""
+
+
+
+
+"""x=float(input("ashari num: "))
+
+def func():
+    return int(x)                                  #Tamrin4
+print(func())"""
+
+
+
+
+"""x=int(input("num 1: "))
+y=int(input("num 2: "))
+
+def divisible(x,y):
+ if x%y==0:
+     print("True")                           #Tamrin  5
+ else:
+     print("else")
+
+divisible(x,y)"""
+
+
+
+
+"""c=float(input("dama be celsius: "))
+
+def fahrenheit(c):
+   return 9.5*c+32                                 #Tamrin 6
+    
+print(fahrenheit(c))"""
+
+
+
+"""import math
+n=float(input("Enter num: "))
+a=pow(n,20)
+b=pow(math.pi,5)                                  #Tamrin 7
+def riazi():
+ return a*b
+print(riazi())"""
+
+
+
+
+
+"""number = input('please enter your number: ')     #Tamrin 8
+reverse_num = int(number[::-1])
+
+print(reverse_num)
+"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
